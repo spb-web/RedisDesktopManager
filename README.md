@@ -1,5 +1,6 @@
 Build on Linux
-```cd src/
+```
+cd src/
 ./configure
 source /opt/qt59/bin/qt59-env.sh && qmake && make && sudo make install
 cd /usr/share/redis-desktop-manager/bin
