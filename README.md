@@ -1,3 +1,5 @@
+# Ееебой
+
 Build on Linux
 ```
 git clone --recursive https://github.com/spb-web/RedisDesktopManager.git -b 0.9 rdm && cd ./rdm
