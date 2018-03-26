@@ -2,6 +2,11 @@
 
 Build on Linux
 ```
+sudo add-apt-repository ppa:beineri/opt-qt591-trusty
+sudo apt-get update
+sudo apt install qt59script qt59quickcontrols2 qt59quickcontrols qt59charts-no-lgpl
+
+
 git clone --recursive https://github.com/spb-web/RedisDesktopManager.git -b 0.9 rdm && cd ./rdm
 
 
