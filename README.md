@@ -1,5 +1,8 @@
 Build on Linux
 ```
+git clone --recursive https://github.com/spb-web/RedisDesktopManager.git -b 0.9 rdm && cd ./rdm
+
+
 cd src/
 ./configure
 source /opt/qt59/bin/qt59-env.sh && qmake && make && sudo make install
